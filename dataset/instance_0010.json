@@ -1,0 +1,760 @@
+{
+  "input": {
+    "activities": [
+      {
+        "id": 0,
+        "modes": [
+          {
+            "duration": 8,
+            "renewable": [
+              4,
+              0,
+              2
+            ],
+            "nonrenewable": [
+              11,
+              3,
+              7
+            ]
+          },
+          {
+            "duration": 2,
+            "renewable": [
+              4,
+              4,
+              4
+            ],
+            "nonrenewable": [
+              18,
+              17,
+              12
+            ]
+          },
+          {
+            "duration": 12,
+            "renewable": [
+              3,
+              5,
+              2
+            ],
+            "nonrenewable": [
+              20,
+              9,
+              18
+            ]
+          }
+        ],
+        "successors": [
+          2
+        ]
+      },
+      {
+        "id": 1,
+        "modes": [
+          {
+            "duration": 4,
+            "renewable": [
+              5,
+              3,
+              5
+            ],
+            "nonrenewable": [
+              11,
+              9,
+              4
+            ]
+          },
+          {
+            "duration": 13,
+            "renewable": [
+              1,
+              2,
+              3
+            ],
+            "nonrenewable": [
+              1,
+              5,
+              13
+            ]
+          },
+          {
+            "duration": 4,
+            "renewable": [
+              5,
+              5,
+              2
+            ],
+            "nonrenewable": [
+              5,
+              16,
+              12
+            ]
+          }
+        ],
+        "successors": [
+          5
+        ]
+      },
+      {
+        "id": 2,
+        "modes": [
+          {
+            "duration": 7,
+            "renewable": [
+              2,
+              4,
+              4
+            ],
+            "nonrenewable": [
+              12,
+              14,
+              2
+            ]
+          },
+          {
+            "duration": 14,
+            "renewable": [
+              1,
+              5,
+              5
+            ],
+            "nonrenewable": [
+              4,
+              17,
+              20
+            ]
+          },
+          {
+            "duration": 11,
+            "renewable": [
+              5,
+              3,
+              3
+            ],
+            "nonrenewable": [
+              1,
+              20,
+              6
+            ]
+          },
+          {
+            "duration": 4,
+            "renewable": [
+              0,
+              2,
+              2
+            ],
+            "nonrenewable": [
+              6,
+              11,
+              1
+            ]
+          },
+          {
+            "duration": 5,
+            "renewable": [
+              0,
+              3,
+              5
+            ],
+            "nonrenewable": [
+              9,
+              10,
+              7
+            ]
+          }
+        ],
+        "successors": [
+          9,
+          8
+        ]
+      },
+      {
+        "id": 3,
+        "modes": [
+          {
+            "duration": 11,
+            "renewable": [
+              1,
+              4,
+              1
+            ],
+            "nonrenewable": [
+              11,
+              4,
+              18
+            ]
+          },
+          {
+            "duration": 5,
+            "renewable": [
+              4,
+              4,
+              2
+            ],
+            "nonrenewable": [
+              0,
+              18,
+              20
+            ]
+          },
+          {
+            "duration": 3,
+            "renewable": [
+              4,
+              3,
+              3
+            ],
+            "nonrenewable": [
+              13,
+              18,
+              8
+            ]
+          },
+          {
+            "duration": 5,
+            "renewable": [
+              2,
+              4,
+              2
+            ],
+            "nonrenewable": [
+              11,
+              18,
+              18
+            ]
+          },
+          {
+            "duration": 5,
+            "renewable": [
+              3,
+              4,
+              1
+            ],
+            "nonrenewable": [
+              7,
+              19,
+              5
+            ]
+          }
+        ],
+        "successors": [
+          6,
+          5,
+          8
+        ]
+      },
+      {
+        "id": 4,
+        "modes": [
+          {
+            "duration": 3,
+            "renewable": [
+              4,
+              3,
+              4
+            ],
+            "nonrenewable": [
+              0,
+              14,
+              6
+            ]
+          },
+          {
+            "duration": 3,
+            "renewable": [
+              3,
+              3,
+              5
+            ],
+            "nonrenewable": [
+              3,
+              13,
+              19
+            ]
+          },
+          {
+            "duration": 4,
+            "renewable": [
+              1,
+              4,
+              2
+            ],
+            "nonrenewable": [
+              10,
+              6,
+              19
+            ]
+          },
+          {
+            "duration": 4,
+            "renewable": [
+              1,
+              2,
+              0
+            ],
+            "nonrenewable": [
+              16,
+              2,
+              9
+            ]
+          },
+          {
+            "duration": 8,
+            "renewable": [
+              1,
+              5,
+              1
+            ],
+            "nonrenewable": [
+              3,
+              16,
+              11
+            ]
+          }
+        ],
+        "successors": [
+          6
+        ]
+      },
+      {
+        "id": 5,
+        "modes": [
+          {
+            "duration": 14,
+            "renewable": [
+              0,
+              4,
+              3
+            ],
+            "nonrenewable": [
+              9,
+              20,
+              3
+            ]
+          },
+          {
+            "duration": 5,
+            "renewable": [
+              4,
+              4,
+              0
+            ],
+            "nonrenewable": [
+              13,
+              20,
+              18
+            ]
+          },
+          {
+            "duration": 10,
+            "renewable": [
+              1,
+              4,
+              0
+            ],
+            "nonrenewable": [
+              10,
+              4,
+              19
+            ]
+          }
+        ],
+        "successors": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 6,
+        "modes": [
+          {
+            "duration": 12,
+            "renewable": [
+              2,
+              2,
+              2
+            ],
+            "nonrenewable": [
+              18,
+              5,
+              13
+            ]
+          },
+          {
+            "duration": 1,
+            "renewable": [
+              5,
+              1,
+              3
+            ],
+            "nonrenewable": [
+              18,
+              12,
+              13
+            ]
+          },
+          {
+            "duration": 4,
+            "renewable": [
+              3,
+              5,
+              4
+            ],
+            "nonrenewable": [
+              0,
+              13,
+              12
+            ]
+          },
+          {
+            "duration": 8,
+            "renewable": [
+              0,
+              1,
+              1
+            ],
+            "nonrenewable": [
+              4,
+              16,
+              5
+            ]
+          },
+          {
+            "duration": 7,
+            "renewable": [
+              4,
+              2,
+              1
+            ],
+            "nonrenewable": [
+              10,
+              12,
+              11
+            ]
+          }
+        ],
+        "successors": [
+          9
+        ]
+      },
+      {
+        "id": 7,
+        "modes": [
+          {
+            "duration": 12,
+            "renewable": [
+              2,
+              4,
+              1
+            ],
+            "nonrenewable": [
+              17,
+              20,
+              14
+            ]
+          },
+          {
+            "duration": 8,
+            "renewable": [
+              2,
+              1,
+              4
+            ],
+            "nonrenewable": [
+              18,
+              19,
+              0
+            ]
+          },
+          {
+            "duration": 15,
+            "renewable": [
+              4,
+              1,
+              4
+            ],
+            "nonrenewable": [
+              1,
+              6,
+              7
+            ]
+          },
+          {
+            "duration": 7,
+            "renewable": [
+              1,
+              5,
+              4
+            ],
+            "nonrenewable": [
+              7,
+              14,
+              10
+            ]
+          }
+        ],
+        "successors": [
+          10
+        ]
+      },
+      {
+        "id": 8,
+        "modes": [
+          {
+            "duration": 2,
+            "renewable": [
+              2,
+              0,
+              3
+            ],
+            "nonrenewable": [
+              1,
+              12,
+              1
+            ]
+          },
+          {
+            "duration": 12,
+            "renewable": [
+              2,
+              3,
+              1
+            ],
+            "nonrenewable": [
+              13,
+              8,
+              12
+            ]
+          },
+          {
+            "duration": 3,
+            "renewable": [
+              4,
+              2,
+              4
+            ],
+            "nonrenewable": [
+              16,
+              8,
+              19
+            ]
+          }
+        ],
+        "successors": [
+          9
+        ]
+      },
+      {
+        "id": 9,
+        "modes": [
+          {
+            "duration": 8,
+            "renewable": [
+              5,
+              3,
+              4
+            ],
+            "nonrenewable": [
+              18,
+              7,
+              5
+            ]
+          },
+          {
+            "duration": 2,
+            "renewable": [
+              4,
+              5,
+              4
+            ],
+            "nonrenewable": [
+              6,
+              15,
+              20
+            ]
+          },
+          {
+            "duration": 12,
+            "renewable": [
+              1,
+              2,
+              1
+            ],
+            "nonrenewable": [
+              1,
+              9,
+              4
+            ]
+          }
+        ],
+        "successors": []
+      },
+      {
+        "id": 10,
+        "modes": [
+          {
+            "duration": 1,
+            "renewable": [
+              5,
+              0,
+              2
+            ],
+            "nonrenewable": [
+              15,
+              5,
+              8
+            ]
+          },
+          {
+            "duration": 15,
+            "renewable": [
+              3,
+              3,
+              2
+            ],
+            "nonrenewable": [
+              7,
+              15,
+              14
+            ]
+          },
+          {
+            "duration": 15,
+            "renewable": [
+              4,
+              5,
+              1
+            ],
+            "nonrenewable": [
+              7,
+              2,
+              4
+            ]
+          },
+          {
+            "duration": 15,
+            "renewable": [
+              1,
+              0,
+              4
+            ],
+            "nonrenewable": [
+              18,
+              6,
+              19
+            ]
+          },
+          {
+            "duration": 1,
+            "renewable": [
+              3,
+              5,
+              2
+            ],
+            "nonrenewable": [
+              15,
+              13,
+              7
+            ]
+          }
+        ],
+        "successors": []
+      }
+    ],
+    "resources": {
+      "renewable": [
+        7,
+        9,
+        15
+      ],
+      "nonrenewable": [
+        135,
+        132,
+        128
+      ]
+    }
+  },
+  "solution": {
+    "makespan": 18,
+    "activities": [
+      {
+        "id": 0,
+        "mode": 1,
+        "start": 4,
+        "duration": 2,
+        "end": 6
+      },
+      {
+        "id": 1,
+        "mode": 2,
+        "start": 0,
+        "duration": 4,
+        "end": 4
+      },
+      {
+        "id": 2,
+        "mode": 4,
+        "start": 6,
+        "duration": 5,
+        "end": 11
+      },
+      {
+        "id": 3,
+        "mode": 3,
+        "start": 0,
+        "duration": 5,
+        "end": 5
+      },
+      {
+        "id": 4,
+        "mode": 3,
+        "start": 11,
+        "duration": 4,
+        "end": 15
+      },
+      {
+        "id": 5,
+        "mode": 2,
+        "start": 5,
+        "duration": 10,
+        "end": 15
+      },
+      {
+        "id": 6,
+        "mode": 1,
+        "start": 15,
+        "duration": 1,
+        "end": 16
+      },
+      {
+        "id": 7,
+        "mode": 1,
+        "start": 5,
+        "duration": 8,
+        "end": 13
+      },
+      {
+        "id": 8,
+        "mode": 0,
+        "start": 11,
+        "duration": 2,
+        "end": 13
+      },
+      {
+        "id": 9,
+        "mode": 1,
+        "start": 16,
+        "duration": 2,
+        "end": 18
+      },
+      {
+        "id": 10,
+        "mode": 0,
+        "start": 13,
+        "duration": 1,
+        "end": 14
+      }
+    ]
+  }
+}
