@@ -1,0 +1,16 @@
+prefect
+pydantic
+ortools
+numpy
+pandas
+orjson
+streamlit
+jupyter
+pytorch
+torch-geometric
+scikit-learn
+matplotlib
+networkx
+tqdm
+tensorflow
+keras
